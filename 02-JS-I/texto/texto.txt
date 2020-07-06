@@ -1,0 +1,10 @@
+1.- 
+Variable: es un nombre, cualquier nombre que tu quieras y que le puedes dar un valor. un significado, asi cuando nombras la variable en otra parte, será usado por el valor que tenga.
+
+Strings: es texto que va entre comilla.
+
+Funciones (argumentos, return) una función, nos permite hacer una operación teniendo en cuenta todas las opciones que se nos presenta, en ella esperamos un resultado.
+
+Declaraciones if es utilizada para dar opciones si es de una forma o si no de otra, tendremos x resultado. 
+
+Valores Booleanos (true, false): es una logica que se basa en dos opciones, en activar y desactivar, verdadero o falso, si no es uno, es el otro, En Javascript es true o false. 
