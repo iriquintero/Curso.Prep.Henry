@@ -1,0 +1,10 @@
+1.- conceptos 
+
+for: es una instrucion que se usa cuando necesitamos hacer muchas repeticiones de una manera sencilla.
+ Donde desde un principio ubicamos las condiciones como ( declarar variable, expresion condicional, incremantación de la variable)
+&&: es y en español y cuando se usa entre de expresiones devuelve true si las dos expresiones son verdades, 
+y si alguna es falsa, devuelve false.
+||: es o en español, cuando se usa entre dos expresiones , evalua si alguna de las dos ecpresiones son verdaderas,
+ si alguna es verdadera devuelve true, y si las dos son falsas devuelve falso.
+!: es no en español, cuando se usa devuelve el valor opuesto de la expresion, 
+si es verdadero, devoverá false, y si es falso devolvera true.
