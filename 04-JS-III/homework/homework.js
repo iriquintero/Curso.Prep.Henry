@@ -25,6 +25,7 @@ function incrementarPorUno(array) {
   // Tu código:
   var arraynuevo = []
   for (let i=0 ; i < array.length ; i++ ){
+    //arraynuevo.push(array[i]+1);
     arraynuevo[i]= array[i]+1; 
   } return arraynuevo;
 }
@@ -33,6 +34,7 @@ function agregarItemAlFinalDelArray(array, elemento) {
   // Añade el "elemento" al final del array
   // y devuelve el array
   // Tu código:
+  //otro modo:  array.push(elemento);
   array [array.length] = elemento ;
   return array;
 } 
@@ -80,6 +82,8 @@ function promedioResultadosTest(resultadosTest) {
   // "resultadosTest" debe ser una matriz de enteros (int/integers)
   // Itera (en un bucle) los elementos del array, calcula y devuelve el promedio de puntajes
   // Tu código:
+  // otro modo:
+  // return: agregarNumeros(resultadosTest)/ resultadosTest.length;
   var suma=0 
   for (var i = 0 ; i < resultadosTest.length ; i++ ){
     suma = suma + resultadosTest[i];
